@@ -1,0 +1,44 @@
+/* Style the body */
+body {
+    font-family: Arial, sans-serif; /* Modify font family */
+    font-size: 16px; /* Modify font size */
+}
+
+/* Style the header */
+header {
+    background-color: #4CAF50; /* Modify background color */
+}
+
+/* Style the nav */
+nav {
+    background-color: #333; /* Modify background color */
+}
+
+/* Style the main */
+main {
+    background-color: #f4f4f4; /* Modify background color */
+    font-size: 18px; /* Modify font size */
+}
+
+/* Style the footer */
+footer {
+    background-color: #222; /* Modify background color */
+}
+
+/* Style the list items */
+li {
+    display: inline-block; /* Modify display */
+    width: 200px; /* Modify width */
+}
+
+/* Style the h1 */
+h1 {
+    text-align: center; /* Modify text alignment */
+    font-family: 'Georgia', serif; /* Modify font family */
+    color: #333; /* Modify color */
+}
+
+/* Style the paragraphs */
+p {
+    line-height: 1.5; /* Modify line height */
+}
